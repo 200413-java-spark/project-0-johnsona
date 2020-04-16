@@ -25,6 +25,7 @@ public class App
             String author = in.next();
 
             System.out.println("Please enter your Blog Entry:");
+            in.next();
             String blogEntry = in.nextLine();
 
             //create log of blogposts
