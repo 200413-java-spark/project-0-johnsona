@@ -1,0 +1,11 @@
+blogpost/target/test-classes/com/github/johnsonadeshina/AppTest.class
+blogpost/target/blogpost-0.1.0.jar
+blogpost/target/classes/com/github/johnsonadeshina/App.class
+blogpost/target/classes/com/github/johnsonadeshina/Blog.class
+blogpost/target/maven-archiver/pom.properties
+blogpost/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+blogpost/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+blogpost/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+blogpost/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+blogpost/target/surefire-reports/TEST-com.github.johnsonadeshina.AppTest.xml
+blogpost/target/surefire-reports/com.github.johnsonadeshina.AppTest.txt
